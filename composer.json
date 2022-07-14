@@ -1,5 +1,11 @@
 {
     "name": "hex/example",
     "description": "example package",
+    "authors": [
+        {
+            "name": "Roman Burko",
+            "email": "redstone.kem@gmail.com"
+        }
+    ],
     "require": {}
 }
